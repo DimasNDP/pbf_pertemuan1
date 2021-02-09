@@ -1,0 +1,17 @@
+{
+  "name": "percobaan_pertama",
+  "nama": "Dimas Nugraha Dwi Putra",
+  "nim": "1841720171",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "react": "^17.0.1"
+  }
+}
